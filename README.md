@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Esha! 👋
 
-<!--
-**eshaggarwal/eshaggarwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Product Manager** focused on **AI Application and Software**. I specialize in blending data science with product intuition to turn complex technical possibilities into features that users actually love.
 
-Here are some ideas to get you started:
+### 💡 My Philosophy
+The best innovations happen at the intersection of **technical potential** and **real human needs**. I bring an analytical mindset to product decisions while keeping the human element front and center.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Doing Now:
+- **Generative AI Platform:** Leading the strategy for an enterprise-scale GenAI copilot at Siemens.
+- **Knowledge Discovery:** Streamlining how global teams share and discover organizational knowledge using RAG.
+- **Product Evolution:** Constantly exploring the future of AI-powered product personalization.
+
+### 🛠 Core Strengths:
+- **AI/ML Strategy:** Generative AI, Retrieval-Augmented Generation (RAG).
+- **Product Discovery:** Mapping user journeys and taking products from concept to launch.
+- **Data-Driven Leadership:** Using data insights to drive roadmap prioritization.
+
+---
+### 📫 Connect with me:
+- **LinkedIn:** [https://www.linkedin.com/in/eshaggarwal/](https://www.linkedin.com/in/eshaggarwal/)
